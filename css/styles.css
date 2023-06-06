@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(40, 6, 95);
+}
+
+.form-content {
+    border-top: 15px rgb(103, 58, 183) solid;
+}
+
+.btn-purple,
+.btn-purple:hover,
+.btn-purple:active,
+.btn-purple:visited {
+    color: white;
+    background-color: rgb(103, 58, 183);
+}
